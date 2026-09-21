@@ -6,15 +6,15 @@
 
 | #   | Script                                                         | Description                |
 | --- | -------------------------------------------------------------- | -------------------------- |
-| 01  | [1_database_exploration.sql](scripts/1_database_exploration.sql)       | Explore database structure |
-| 02  | [2_dimensions_exploration.sql](scripts/2_dimensions_exploration.sql)   | Explore dimension tables   |
-| 03  | [3_date_exploration.sql](scripts/3_date_exploration.sql)               | Explore date ranges        |
-| 04  | [4_measures_exploration.sql](scripts/4_measures_exploration.sql)       | Explore key measures       |
-| 05  | [5_magnitude_analysis.sql](scripts/5_magnitude_analysis.sql)           | Analyze magnitude          |
-| 06  | [6_ranking_analysis.sql](scripts/6_ranking_analysis.sql)               | Rank entities              |
-| 07  | [7_changes_over_time.sql](scripts/7_changes_over_time.sql)             | Analyze trends over time   |
-| 08  | [8_comulative_analysis.sql](scripts/8_comulative_analysis.sql)         | Cumulative analysis        |
-| 09  | [9_performance_analysis.sql](scripts/9_performance_analysis.sql)       | Performance analysis       |
+| 01  | [1_database_exploration.sql](scripts/01_database_exploration.sql)       | Explore database structure |
+| 02  | [2_dimensions_exploration.sql](scripts/02_dimensions_exploration.sql)   | Explore dimension tables   |
+| 03  | [3_date_exploration.sql](scripts/03_date_exploration.sql)               | Explore date ranges        |
+| 04  | [4_measures_exploration.sql](scripts/04_measures_exploration.sql)       | Explore key measures       |
+| 05  | [5_magnitude_analysis.sql](scripts/05_magnitude_analysis.sql)           | Analyze magnitude          |
+| 06  | [6_ranking_analysis.sql](scripts/06_ranking_analysis.sql)               | Rank entities              |
+| 07  | [7_changes_over_time.sql](scripts/07_changes_over_time.sql)             | Analyze trends over time   |
+| 08  | [8_comulative_analysis.sql](scripts/08_comulative_analysis.sql)         | Cumulative analysis        |
+| 09  | [9_performance_analysis.sql](scripts/09_performance_analysis.sql)       | Performance analysis       |
 | 10  | [10_part_to_whole_analysis.sql](scripts/10_part_to_whole_analysis.sql) | Part-to-whole analysis     |
 | 11  | [11_data_segmentation.sql](scripts/11_data_segmentation.sql)           | Data segmentation          |
 | 12  | [12_report_customers.sql](scripts/12_report_customers.sql)             | Customer report            |
