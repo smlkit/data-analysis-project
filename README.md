@@ -6,27 +6,27 @@
 
 | #   | Script                                                         | Description                |
 | --- | -------------------------------------------------------------- | -------------------------- |
-| 01  | [1_database_exploration.sql](1_database_exploration.sql)       | Explore database structure |
-| 02  | [2_dimensions_exploration.sql](2_dimensions_exploration.sql)   | Explore dimension tables   |
-| 03  | [3_date_exploration.sql](3_date_exploration.sql)               | Explore date ranges        |
-| 04  | [4_measures_exploration.sql](4_measures_exploration.sql)       | Explore key measures       |
-| 05  | [5_magnitude_analysis.sql](5_magnitude_analysis.sql)           | Analyze magnitude          |
-| 06  | [6_ranking_analysis.sql](6_ranking_analysis.sql)               | Rank entities              |
-| 07  | [7_changes_over_time.sql](7_changes_over_time.sql)             | Analyze trends over time   |
-| 08  | [8_comulative_analysis.sql](8_comulative_analysis.sql)         | Cumulative analysis        |
-| 09  | [9_performance_analysis.sql](9_performance_analysis.sql)       | Performance analysis       |
-| 10  | [10_part_to_whole_analysis.sql](10_part_to_whole_analysis.sql) | Part-to-whole analysis     |
-| 11  | [11_data_segmentation.sql](11_data_segmentation.sql)           | Data segmentation          |
-| 12  | [12_report_customers.sql](12_report_customers.sql)             | Customer report            |
-| 13  | [13_report_products.sql](13_report_products.sql)               | Product report             |
+| 01  | [1_database_exploration.sql](scripts/1_database_exploration.sql)       | Explore database structure |
+| 02  | [2_dimensions_exploration.sql](scripts/2_dimensions_exploration.sql)   | Explore dimension tables   |
+| 03  | [3_date_exploration.sql](scripts/3_date_exploration.sql)               | Explore date ranges        |
+| 04  | [4_measures_exploration.sql](scripts/4_measures_exploration.sql)       | Explore key measures       |
+| 05  | [5_magnitude_analysis.sql](scripts/5_magnitude_analysis.sql)           | Analyze magnitude          |
+| 06  | [6_ranking_analysis.sql](scripts/6_ranking_analysis.sql)               | Rank entities              |
+| 07  | [7_changes_over_time.sql](scripts/7_changes_over_time.sql)             | Analyze trends over time   |
+| 08  | [8_comulative_analysis.sql](scripts/8_comulative_analysis.sql)         | Cumulative analysis        |
+| 09  | [9_performance_analysis.sql](scripts/9_performance_analysis.sql)       | Performance analysis       |
+| 10  | [10_part_to_whole_analysis.sql](scripts/10_part_to_whole_analysis.sql) | Part-to-whole analysis     |
+| 11  | [11_data_segmentation.sql](scripts/11_data_segmentation.sql)           | Data segmentation          |
+| 12  | [12_report_customers.sql](scripts/12_report_customers.sql)             | Customer report            |
+| 13  | [13_report_products.sql](scripts/13_report_products.sql)               | Product report             |
 
 ### 📁 Datasets
 
 | File                                             | Type      | Description        |
 | ------------------------------------------------ | --------- | ------------------ |
-| [gold.dim_customers.csv](gold.dim_customers.csv) | Dimension | Customer data      |
-| [gold.dim_products.csv](gold.dim_products.csv)   | Dimension | Product data       |
-| [gold.fact_sales.csv](gold.fact_sales.csv)       | Fact      | Sales transactions |
+| [gold.dim_customers.csv](datasets/gold.dim_customers.csv) | Dimension | Customer data      |
+| [gold.dim_products.csv](datasets/gold.dim_products.csv)   | Dimension | Product data       |
+| [gold.fact_sales.csv](datasets/gold.fact_sales.csv)       | Fact      | Sales transactions |
 
 ## Section 1: Database Exploration
 
