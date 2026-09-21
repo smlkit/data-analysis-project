@@ -1,5 +1,19 @@
 # Data Analysis Project
 
+A comprehensive SQL project for exploring, analyzing, and reporting on e-commerce (or retail) sales data.
+
+The project follows a step-by-step data analysis approach — from initial database structure exploration to creating full-featured customer and product reports.
+
+> The project uses **T-SQL** (Microsoft SQL Server) syntax.
+
+## 🎯 Project Goals
+
+- Explore the database structure and data model (dimensions + facts)
+- Perform exploratory data analysis (EDA)
+- Analyze sales, customers, and products
+- Build customer and product segmentation
+- Create ready-to-use reports (views) for business intelligence
+
 ## Table of Contents
 
 ### 📊 SQL Analysis Scripts
