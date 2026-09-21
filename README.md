@@ -1,3 +1,8 @@
+> 🌐 **Choose documentation language / Выберите язык документации:**
+>
+> [![English Language](https://img.shields.io/badge/🇺🇸_English-blue.svg)](README.eng.md)
+> [![Russian Language](https://img.shields.io/badge/🇷🇺_Русский-green.svg)](README.rus.md)
+
 ### 📖 About this project / О проекте
 
 This repository contains a full **Data Analysis Project** built with SQL — covering database exploration, dimensions, dates, measures, magnitude, ranking, time trends, cumulative metrics, performance, part-to-whole analysis, segmentation, and final reports for customers and products.
