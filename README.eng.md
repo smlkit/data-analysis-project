@@ -687,9 +687,7 @@ ORDER BY customer_count DESC;
 
 ### Purpose
 
-This report consolidates key customer metrics and behaviors.
-
-### Highlights
+This report consolidates key customer metrics and behaviors:
 
 1. Gathers essential fields such as names, ages, and transaction details.
 2. Segments customers into categories (VIP, Regular, New) and age groups.
@@ -784,9 +782,7 @@ CREATE VIEW gold.report_customers AS
 
 ### Purpose
 
-This report consolidates key product metrics and behaviors.
-
-## Highlights
+This report consolidates key product metrics and behaviors:
 
 1. Gathers essential fields such as product name, category, subcategory, and cost.
 2. Segments products by revenue to identify High-Performers, Mid-Range, or Low-Performers.
